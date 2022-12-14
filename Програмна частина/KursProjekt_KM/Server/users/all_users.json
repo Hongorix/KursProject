@@ -1,0 +1,68 @@
+{
+    "8OMCsAGYKgDFo9GFmPIoBCTaCRAfKH5i": {
+        "email": "zkaster@gmail.com",
+        "intro": "This is your intro.",
+        "language1": "",
+        "language2": "",
+        "language3": "",
+        "password": "Aa123456",
+        "profile_pic_path": ":/images/pic/profile.png",
+        "pronoun": "",
+        "username": "zkaster"
+    },
+    "Zn8xdlz6iJdZtCgkb7oYiFUEFZZ8YXaI": {
+        "email": "roma@ukr.net",
+        "intro": "This is your intro.",
+        "language1": "",
+        "language2": "",
+        "language3": "",
+        "password": "Aa123456",
+        "profile_pic_path": ":/images/pic/profile.png",
+        "pronoun": "",
+        "username": "Roma"
+    },
+    "gthL3DaPyUZiOZd4Kr9e3JF5llIbF5XL": {
+        "email": "kiril@ukr.net",
+        "intro": "This is your intro.",
+        "language1": "",
+        "language2": "",
+        "language3": "",
+        "password": "Aa123456",
+        "profile_pic_path": ":/images/pic/profile.png",
+        "pronoun": "",
+        "username": "Kiril"
+    },
+    "iCCtS2ytxC6wZdor6ExugglYyqRvgD7Q": {
+        "email": "serega@ukr.net",
+        "intro": "This is your intro.",
+        "language1": "",
+        "language2": "",
+        "language3": "",
+        "password": "Aa123456",
+        "profile_pic_path": ":/images/pic/profile.png",
+        "pronoun": "",
+        "username": "Serega"
+    },
+    "rhEf381XaBPBgloCqUQuMD2pKOrwzEAi": {
+        "email": "dima@ukr.net",
+        "intro": "This is your intro.",
+        "language1": "",
+        "language2": "",
+        "language3": "",
+        "password": "Aa123456",
+        "profile_pic_path": ":/images/pic/profile.png",
+        "pronoun": "",
+        "username": "Dima"
+    },
+    "tR7W1fsV7YcHI1EPIaVkze87yRHZoDxw": {
+        "email": "new_user@ukr.net",
+        "intro": "Інформація про себе для перевірки.",
+        "language1": "Ukrainian",
+        "language2": "English (US)",
+        "language3": "Russian",
+        "password": "Pass1234%!",
+        "profile_pic_path": "C:/Users/Admin/Pictures/A/cb013be38b3ae9fda6567e44ee725472_1920 (2).jpg",
+        "pronoun": "Male",
+        "username": "User"
+    }
+}
